@@ -1,0 +1,42 @@
+.heading{
+
+}
+.service-container{
+   display: inline-block;
+    
+}
+.service{
+    width: 270px;
+    margin-left: 35px;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 10px, 10px , 10px gray;
+}
+.service:hover{
+    background-color: rgb(166, 172, 166);
+    transition: 1s;
+    
+}
+.service img{
+    width: 250px;
+    height: 180px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.service h6{
+    font-size: 16px;
+}
+.service h6, p{
+    padding-left: 30px;
+}
+.service button{
+   margin-left: 85px;
+   border-radius: 5px;
+   margin-bottom: 20px;
+   background-color: lightgray;
+   font-weight: 500;
+}
