@@ -13,7 +13,7 @@
 }
 .course:hover{
     background-color: rgb(199, 204, 212);
-    transition: 0.5s;
+    transition: 1s;
 }
 .course h4{
     margin-top: 10px;
